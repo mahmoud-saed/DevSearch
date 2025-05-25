@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DevSearch
 Sourcode and Resources for Django 5 Course
 
@@ -50,3 +51,6 @@ See the full course here: https://dennisivy.teachable.com/p/django-beginners-cou
 # User Inbox
 <img src="./resources/images/Devsearch Inbox.jpg">  
 
+=======
+# DevSearch
+>>>>>>> 5f1f58dab952f5f98e049b4941a529125abe5a04
