@@ -1,8 +1,3 @@
-Absolutely! Here’s a polished, beginner-friendly **README.md** file formatted for GitHub, based on the details you provided.  
-
----
-
-```markdown
 # 🌐 DevSearch — Connect, Share, Collaborate
 
 DevSearch is a **Django 5 web application** that lets developers showcase their projects, connect with other developers, exchange messages, and rate each other’s work. It’s a learning project built as part of a Django 5 beginners course, packed with essential web development features and best practices.
